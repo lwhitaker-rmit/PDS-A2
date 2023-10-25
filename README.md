@@ -1,5 +1,8 @@
 # PDS-A2
 Following data modelling techniques to predict mortality in heart failure patients. This was written as an assignment for a Practical Data Science elective I undertook in 2022. A brief report on the results is also provided.
+### Dataset Reference
+Davide Chicco, Giuseppe Jurman: *"Machine learning can predict survival of patients with heart failure from serumcreatinine and ejection fraction alone"*. BMC Medical Informatics and Decision Making 20, 16 (2020). [[Web Link](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1023-5)]
+
 Dataset: [Heart failure clinical records](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)
 
 ## Dependencies
