@@ -6,7 +6,7 @@ Davide Chicco, Giuseppe Jurman: *"Machine learning can predict survival of patie
 Dataset: [Heart failure clinical records](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)
 
 ## Dependencies
-This IPython Notebook requires [`Pandas`](https://pandas.pydata.org/docs/getting_started/install.html), [`Matplotlib`](https://matplotlib.org/stable/users/installing/index.html), [`NumPy`](https://numpy.org/install/), and [`scikit-learn`](https://scikit-learn.org/stable/install.html). If you would like to run the cells in `Assignment2.ipynb` on your own, you may install these via the following commandlines, however the results of the code has been provided below, so this is not required.
+This Jupyter Notebook requires [`Pandas`](https://pandas.pydata.org/docs/getting_started/install.html), [`Matplotlib`](https://matplotlib.org/stable/users/installing/index.html), [`NumPy`](https://numpy.org/install/), and [`scikit-learn`](https://scikit-learn.org/stable/install.html). If you would like to run the cells in `Assignment2.ipynb` on your own, you may install these via the following commandlines, however the results of the code has been provided below, so this is not required.
 
 ______________________________________________________
 
