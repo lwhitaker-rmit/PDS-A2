@@ -1,5 +1,6 @@
 # PDS-A2
 Following data modelling techniques to predict mortality in heart failure patients. This was written as an assignment for a Practical Data Science elective I undertook in 2022. A brief report on the results is also provided.
+Dataset: [Heart failure clinical records](https://archive.ics.uci.edu/dataset/519/heart+failure+clinical+records)
 
 ## Dependencies
 This IPython Notebook requires [`Pandas`](https://pandas.pydata.org/docs/getting_started/install.html), [`Matplotlib`](https://matplotlib.org/stable/users/installing/index.html), [`NumPy`](https://numpy.org/install/), and [`scikit-learn`](https://scikit-learn.org/stable/install.html). If you would like to run the cells on your own, you may install these via the following commandlines, however the results of the code has been provided below, so this is not required.
